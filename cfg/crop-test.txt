@@ -1,0 +1,11 @@
+/content/drive/My Drive/PyDetect/YOLO implementation/darknet/data/crop/IMG20200213174903.jpg
+/content/drive/My Drive/PyDetect/YOLO implementation/darknet/data/crop/IMG20200213174808.jpg
+/content/drive/My Drive/PyDetect/YOLO implementation/darknet/data/crop/IMG20200213174559.jpg
+/content/drive/My Drive/PyDetect/YOLO implementation/darknet/data/crop/IMG20200213174942.jpg
+/content/drive/My Drive/PyDetect/YOLO implementation/darknet/data/crop/IMG20200213174855.jpg
+/content/drive/My Drive/PyDetect/YOLO implementation/darknet/data/crop/IMG20200213174928.jpg
+/content/drive/My Drive/PyDetect/YOLO implementation/darknet/data/crop/IMG20200213174949.jpg
+/content/drive/My Drive/PyDetect/YOLO implementation/darknet/data/crop/IMG20200213174815.jpg
+/content/drive/My Drive/PyDetect/YOLO implementation/darknet/data/crop/IMG20200213175002.jpg
+/content/drive/My Drive/PyDetect/YOLO implementation/darknet/data/crop/IMG20200213174527.jpg
+/content/drive/My Drive/PyDetect/YOLO implementation/darknet/data/crop/IMG20200213174834.jpg
